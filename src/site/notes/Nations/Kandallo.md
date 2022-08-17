@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nations/kandallo/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/nations/kandallo/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
