@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religion/deities-of-eona/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/religion/deities-of-eona/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
