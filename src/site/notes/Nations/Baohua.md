@@ -23,7 +23,7 @@ Female Firbolg
 ### [[People/Kior Solarclaw|Kior Solarclaw]], Hand to the Chief
 Male Leonin
 
-## History
 > TODO: Baohua_History
+## History
 
 #Organization
