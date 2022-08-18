@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/nations/baohua/","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+
+# Baohua
+Baohua ("B-OW-WHO-A") is a nation in the south eastern desert of [[Continents/Ezavriel|Ezavriel]]. Its capital is the mesa city [[Settlements/Khiton|Khiton]] and is where its chief. 
+
+The Baohuan people deeply cherish their land, history, and customs. Initially meeting someone from Baohua, one would assume they are standoffish. Further contact would reveal, however, that they are a rather proud and stoic people. They rarely show expression, even to those closest to them.
+
+## Relationships
+The people of Baohua deeply cherish their land and their elected chief reflects the same ideals. Each member of the community respects one another as equals, despite social status. Even the chief and his family greets each commoner, like an honored guest.  
+
+To most other nations, the Baohua are rarely heard from. The only way a government figure can meet the chief of Baohua is to visit [[Settlements/Khiton|Khiton]] personally.  Similar to elders from [[Nations/Kandallo|Kandallo]], the presence of even a relative of the chief is regarded as a high honor and shown upmost respect. 
+
+## Key Figures
+### Chief [[People/Ykti Solarclaw|Ykti Solarclaw]] 
+Male Leonin
+
+### [[People/Keysys Starriver|Keysys Starriver]], Elder to the Chief
+Female Firbolg
+
+### [[People/Kior Solarclaw|Kior Solarclaw]], Hand to the Chief
+Male Leonin
+
+## History
+> TODO: Baohua_History
+
+#Organization
