@@ -131,7 +131,7 @@ Unus is a greater deity of knowledge.
 **Alignment:** N  
 **Symbol:** Two crossed swords  
 **Possible Domains:** Forge, War  
-**Other Titles:** the Master Smith  
+**Other Titles:** the Original Smith  
 
 Vhord is a greater deity of war. 
 
