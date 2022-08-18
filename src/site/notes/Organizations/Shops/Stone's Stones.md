@@ -8,7 +8,9 @@
 - **Location**: District, [[Settlements/Opira|Opira]]
 
 ## Appearance
-- Large slabs of stone for each wall
+- Large slabs of stone for each wall, no door
+- A long stone slab at the back of the shop as the counter
+- No décor or displays on the inside
 
 ## Goods
 - Buys and sells all different types of rocks
