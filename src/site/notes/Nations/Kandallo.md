@@ -4,7 +4,7 @@
 
 
 # Kandallo
-Kandallo ("KAHN-DOLL-OH") is the northwest nation of [[Continents/Ezavriel|Ezavriel]]. Its capital is [[Settlements/Ithilmore|Ithilmore]] and that is where the Council of Elders meet.
+Kandallo ("KAHN-DOLL-OH") is the northwest nation of [[Continents/Ezavriel|Ezavriel]]. Its capital is [[Settlements/Ithilmore|Ithilmore]] and that is where the Council of Elders reside.
 
 Kandallans value imagination and free-spiritedness. Due to Kandallo's location, the nation faces occasional extreme weather from the North Sea. This requires many settlements, even [[Settlements/Ithilmore|Ithilmore]], to rebuild. While most cultures could not sustain such rebuilding, the Kandallans have learned over the generations to use the [[POIs/Willowdust Woods|Willowdust Woods]] as a natural protection. 
 
