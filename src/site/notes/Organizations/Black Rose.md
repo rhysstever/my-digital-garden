@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/organizations/black-rose/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 # Black Rose
 The Black Rose is an assassin's guild that works out of the [[Nations/Yhorian Empire|Yhorian Empire]]. It operates similar to an array of underground organizations: thieving, probing for information, and (occasionally) taking out a target. Its headquarters is the Black Rose Inn in the Highgarden district within [[Settlements/Yhora (City)|Yhora (City)]]. 
@@ -33,9 +34,9 @@ Female Orc, Taskmaster
 Male Goblin, Weapon Specialist
 
 ### [[People/Jason Stonewall|Jason Stonewall]]
-Male Halfling, Agent
+Male Halfling, Agent (mid rank)
 
 ### [[People/Myrdin Craynore|Myrdin Craynore]]
-Male Wood Elf, Agent
+Male Wood Elf, Agent (entry rank)
 
 #Organization
