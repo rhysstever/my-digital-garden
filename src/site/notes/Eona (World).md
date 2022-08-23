@@ -6,7 +6,7 @@
 # Eona
 ## Continents
 ### Ezavriel
-[[Continents/Ezavriel|Ezavriel]] is located in the northern hemisphere of Eona.
+[[Continents/Ezavriel|Ezavriel]] is a moderately-sized continent located in the northern hemisphere of Eona. It generally has a temperate climate, however its southern regions are more dry.
 
 ## Religion
 The [[Religion/Deities of Eona|Deities of Eona]] is the pantheon worshipped within Eona. It contains 17 deities, each harboring power in their own, unique domain. While every deity is worshipped, some are illegal to openly worship in particular nations.  
