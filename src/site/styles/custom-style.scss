@@ -2,7 +2,10 @@ body {
   a {
     text-decoration: none;
   }
-  a.is-unresolved{
+  a.is-unresolved {
     color: rgb(67, 102, 125);
+  }
+  th, td {
+    padding: 0rem 0.5rem;
   }
 }
