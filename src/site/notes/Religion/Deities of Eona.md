@@ -113,7 +113,7 @@ Ovara is a greater deity of life and growth.
 **Alignment:** LN  
 **Symbol:** A balanced scale  
 **Possible Domains:** Order  
-**Other Titles:** the Noble  
+**Other Titles:** the Noble, the Just  
 
 Thoros is a greater deity of justice. 
 
