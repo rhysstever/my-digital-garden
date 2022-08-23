@@ -6,7 +6,7 @@
 # Eona
 ## Continents
 ### Ezavriel
-[[Continents/Ezavriel|Ezavriel]] is located in the northern hemisphere of Eona.
+[[Continents/Ezavriel|Ezavriel]] is a moderately-sized continent located in the northern hemisphere of Eona. It generally has a temperate climate, however its southern regions are more dry.
 
 ## Religion
 The [[Religion/Deities of Eona|Deities of Eona]] is the pantheon worshipped within Eona. It contains 17 deities, each harboring power in their own, unique domain. While every deity is worshipped, some are illegal to openly worship in particular nations.  
@@ -14,16 +14,16 @@ The [[Religion/Deities of Eona|Deities of Eona]] is the pantheon worshipped with
 ## Calendar
 Below is outlined the world's calendar. Each of four seasons is broken in half into two months. Each month 30 days and named after a deity: based on what is valued during the time of the year.
 
-| Season | Month   | Values                        |
-| ------ | ------- | ----------------------------- |
-| Spring | Eonum   | Eona, creation, and rebirth   |
-| Spring | Yhorum  | Vhord and strength            |
-| Summer | Atay    | Atal and the sun              |
-| Summer | Meralum | Meralum, magic, and wonder    |
-| Autumn | Ovarum  | Ovara, life, and growth       |
-| Autumn | Unum    | Unus, knowledge, and learning |
-| Winter | Yhurne  | Yher and darkness             |
-| Winter | Thorum  | Thoros, justice, reflection   | 
+| Season | #   | Month   | Values                        |
+| ------ | --- | ------- | ----------------------------- |
+| Spring | 1   | Eonum   | Eona, creation, and rebirth   |
+| Spring | 2   | Yhorum  | Vhord and strength            |
+| Summer | 3   | Atay    | Atal and the sun              |
+| Summer | 4   | Meralum | Meralum, magic, and wonder    |
+| Autumn | 5   | Ovarum  | Ovara, life, and growth       |
+| Autumn | 6   | Unum    | Unus, knowledge, and learning |
+| Winter | 7   | Yhurne  | Yher and darkness             |
+| Winter | 8   | Thorum  | Thoros, justice, reflection   |
 
 ### Holidays
 #### The Day of Rebirth
