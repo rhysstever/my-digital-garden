@@ -41,7 +41,7 @@ Within every major nation of [[Continents/Ezavriel|Ezavriel]], the following dei
 **Alignment:** NG  
 **Symbol:** An eight-pointed sun  
 **Suggested Domains:** Life, Light, Nature, Tempest, Trickery  
-**Other Titles:**  
+**Other Titles:** The Great Sun  
 
 Atal is a greater deity of the sun and light. 
 
@@ -77,7 +77,7 @@ Kyen is a greater deity of vengeance and anarchy.
 **Alignment:** N  
 **Symbol:** A circle of two four-pointed stars  
 **Possible Domains:** Arcana, Knowledge  
-**Other Titles:**    
+**Other Titles:** the Weavermaster  
 
 Meralin is a greater deity of magic. 
 
@@ -95,7 +95,7 @@ Nokzol is a greater deity of tyranny.
 **Alignment:** NE  
 **Symbol:** A partially corroded skull  
 **Possible Domains:** Death, Grave, Trickery  
-**Other Titles:**    
+**Other Titles:** the Unending  
 
 Oros is a greater deity of the undead and decay. 
 
@@ -104,7 +104,7 @@ Oros is a greater deity of the undead and decay.
 **Alignment:** CG  
 **Symbol:** A tree with a thick canopy  
 **Possible Domains:** Life, Light, Nature, Tempest  
-**Other Titles:**   
+**Other Titles:**    
 
 Ovara is a greater deity of life and growth. 
 
@@ -122,7 +122,7 @@ Thoros is a greater deity of justice.
 **Alignment:** NG  
 **Symbol:** An open tome  
 **Possible Domains:** Arcana, Knowledge  
-**Other Titles:**   
+**Other Titles:** the World's Mentor  
 
 Unus is a greater deity of knowledge. 
 
