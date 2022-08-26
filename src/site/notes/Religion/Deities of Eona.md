@@ -149,7 +149,7 @@ Yher is a greater deity of death and darkness.
 **Alignment:** CE  
 **Symbol:** A blood-splattered envelope  
 **Possible Domains:** Knowledge, Trickery, Twilight  
-**Other Titles:** the Shadow Voice
+**Other Titles:** the Shadowed Voice
 
 Zaas is a greater deity of secrets. 
 
