@@ -44,8 +44,7 @@ After the [[Events/Yhorian-Opirian War|Yhorian-Opirian War]] and the [[Nations/O
 
 Due to this resource strain, the [[POIs/Wayward Isles|Wayward Isles]] could no longer be supported and the Empress and Archpriests agreed to relinquish their control of them.
 
-
 ## Music/Inspiration
-- https://open.spotify.com/playlist/14ARRvkke5YmFYsYzKb7fV?si=248c8a84505641b8
+- [a seaside town](https://open.spotify.com/playlist/14ARRvkke5YmFYsYzKb7fV)
 
 #Organization
