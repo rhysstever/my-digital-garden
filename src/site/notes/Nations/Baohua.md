@@ -49,6 +49,6 @@ With the end of [[Events/Yhorian-Opirian War|Yhorian-Opirian War]], Baohua felt 
 After countless, exhaustive negotiations, and even a nationwide vote, a Baohuan airship port was funded and built. Soon an influx of Opirian citizens arrived within the desert capital. Baohua began to generate a degree of tourism- an aspect of society that quickly became a controversial, yet irreversible topic among native Baohuans. 
 
 ## Music/Inspiration
-- https://open.spotify.com/playlist/5gb1Rn9tTcRiFdKL84ushj?si=c6da629685bf4220
+- [Desert Ambiance](https://open.spotify.com/playlist/5gb1Rn9tTcRiFdKL84ushj)
 
 #Organization
