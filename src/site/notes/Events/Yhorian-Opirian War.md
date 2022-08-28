@@ -3,15 +3,6 @@
 ---
 
 
-<span 
-	  class='ob-timelines' 
-	  data-date='1453-00-00-00' 
-	  data-title='Yhorian-Opirian War' 
-	  data-class='orange' 
-	  data-type='range' 
-	  data-end='1456-00-00-00'> 
-</span>
-
 # Yhorian-Opirian War
 The Yhorian-Opirian War, sometimes shortened to the YEOA War ("YEE-OH-UH"), lasted from 1453 to 1454. It is also sometimes known as the "10 Years War".
 
@@ -37,5 +28,14 @@ The war unofficially ended when Opirian ships entered the [[POIs/Sea of Yhor|Sea
 [[Settlements/Yhora (City)|Yhora (City)]] was left all by itself. The remaining Yhorian guard regrouped, ready to defend the royal family against any Opirian siege. The siege, however, never came. Both Opirian and Yhorian forces knew taking [[Settlements/Yhora (City)|Yhora (City)]] would be a bloodbath. So, instead, the [[Nations/Opirian Alliance|Opirian Alliance]] drafted a treaty. 
 
 The treaty required the [[Nations/Yhorian Empire|Yhorian Empire]] to relinquish control of all of its major settlements, outside of its capital. It stated that [[Settlements/Eighwood|Eighwood]] would officially be under the control of the [[Nations/Opirian Alliance|Opirian Alliance]]. All other remaining major settlements were freed from Yhorian rule, but were required to become trade partners with the alliance. 
+
+<span 
+	  class='ob-timelines' 
+	  data-date='1453-00-00-00' 
+	  data-title='Yhorian-Opirian War' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='1456-00-00-00'> 
+</span>
 
 #timeline #Event
