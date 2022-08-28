@@ -41,15 +41,17 @@ Male Orc, Neutral Good
 
 ## History
 ### The Rise of the Yhorian Empire
-Thestros Yhora I establishes the town of Yhora in what would be known as the [[Events/Founding of Yhora|Founding of Yhora]]. 
+Thestros Yhora I founded the town of Yhora in what would be known as the [[Events/Founding of Yhora|Founding of Yhora]]. He appealed to the populous as a charismatic, and intelligent leader. He preached safety through unity, forming a well-trained army that secured lands all around [[Settlements/Yhora (City)|Yhora (City)]]. Settlers followed the Yhorian army, establishing towns along main routes back to home city. 
+
+As these towns grew, their developments promoted [[Settlements/Yhora (City)|Yhora (City)]], and, not long after, the Yhoras held the first empire of the continent.  
 
 ### The Yhorian-Opirian War
 The Yhorian Empire went to war against the [[Nations/Opirian Alliance|Opirian Alliance]], which would be named the [[Events/Yhorian-Opirian War|Yhorian-Opirian War]]. Ultimately, the [[Nations/Opirian Alliance|Opirian Alliance]] defeated  the [[Nations/Yhorian Empire|Yhorian Empire]]. The empire's forces were pushed back to their capital, [[Settlements/Yhora (City)|Yhora (City)]] and peace was negotiated. 
 
 ### The Fall of the Yhorian Empire 
-The [[Events/Yhorian-Opirian War|Yhorian-Opirian War]] marked the end of the [[Nations/Yhorian Empire|Yhorian Empire]]. What started as a expansive nation that controlled much of [[Continents/Ezavriel|Ezavriel]], shriveled to a single remaining city. 
+The [[Events/Yhorian-Opirian War|Yhorian-Opirian War]] marked the end of the [[Nations/Yhorian Empire|Yhorian Empire]]. What started as a expansive nation that controlled much of [[Continents/Ezavriel|Ezavriel]], shriveled to a single remaining city. Public opinion of the Yhoras had plummeted, yet they managed to retain rule over the city. 
 
 ## Music/Inspiration
-- https://open.spotify.com/playlist/7o7UIC832EqZz74GB1grEt?si=df69cdae5d624d80
+- [D&D City - Large](https://open.spotify.com/playlist/7o7UIC832EqZz74GB1grEt)
 
 #Organization
