@@ -7,7 +7,7 @@
 # Opirian Alliance
 The Opirian ("OH-PEER-EE-AN") Alliance is a collection of ports in the center of [[Continents/Ezavriel|Ezavriel]]. It is capital is [[Settlements/Opira|Opira]], though other notable settlements in the alliance include [[Settlements/Yalos|Yalos]] and [[Settlements/Port Qane|Port Qane]]. Representatives are elected from each of these major port towns and meet in [[Settlements/Opira|Opira]] to form the Opirian Republic. This governing body makes decision for the entire nation, usually in regards to deals with other nations. 
 
-Values of the Great Alliance are that of the individual. From its creation, the power and liberty of the people has been held above the power of the governing body. While a republic was eventually established, as the first pioneers recognized that some form of government was needed, its power is limited. Officials must adequately represent those that elected them, or they will swiftly be replaced. 
+Values of the Alliance are that of the individual. From its creation, the power and liberty of the people has been held above the power of the governing body. While a republic was eventually established, as the first pioneers recognized that some form of government was needed, its power is limited. Officials must adequately represent those that elected them, or they will swiftly be replaced. 
 
 Whether a citizen dreams of being such representative, or head deckhand, they are sure to know the only way to achieve such goal: through their own will and determination. A lazy worker will be unemployed throughout the alliance. 
 
@@ -18,36 +18,40 @@ The Opirian Alliance is placed in the center of [[Continents/Ezavriel|Ezavriel]]
 
 ## Key Figures
 ### [[People/Uga|Uga]], Representative of [[Settlements/Opira|Opira]]
-Female Lizardfolk, True Neutral
+Female Lizardfolk, Neutral Good
 
 ### Spuruak, Representative of [[Settlements/Opira|Opira]]
 Non-binary Kenku, True Neutral
 
 ### [[People/Cloud in the Sky|Cloud in the Sky]] (Sky), Representative of [[Settlements/Port Qane|Port Qane]]
-Female Tabaxi, True Neutral
+Female Tabaxi, Lawful Neutral
 
-### NAME, Representative of [[Settlements/Yalos|Yalos]]
-Gender Race, Alignment
+### Galeon Thunderhoof, Representative of [[Settlements/Port Qane|Port Qane]]
+Male Centaur, Lawful Good
 
 ### [[People/Zuhrus Razanath|Zuhrus Razanath]], Representative of [[Settlements/Yalos|Yalos]]
 Male Triton, True Neutral
 
-### NAME, Representative of [[Settlements/Port Qane|Port Qane]]
-Gender Race, Alignment
+### Emmarie Irf, Representative of [[Settlements/Yalos|Yalos]]
+Female Harengon, Lawful Good
 
-> TODO: 2 reps, History
 ## History
-### The Alliance Creation
-- Checks and balances among states
+### Drafting an Alliance
+The Opirian Alliance is relatively young compared to other [[Continents/Ezavriel|Ezavriel]] nations. Each of the main port cities developed on their own for much of their own history. Only when the increasing presence of other nations was felt, did they decide to come together. 
+
+At first, the "alliance" was stronger trade between the port cities, as they feared one gaining more power over the others. This, however, proved to weak as each city continued to have full rule over themself. After much hesitation, representatives finally met in [[Settlements/Opira|Opira]], the largest of the port cities, and drafted a doctrine. Once each city approved the doctrine, the Opirian Alliance was officially established. 
 
 ### Growing Focus on Trade
-- Domestic, intercity trade turned outward
+Trade was one focus each major city shared, mainly due to being prominent continental ports. Once the Alliance was established, each port became more specialized. For example, [[Settlements/Opira|Opira]] began to provide food to other ports, supported by their vast farms that surrounded the city. [[Settlements/Port Qane|Port Qane]]'s proximity to the mountains supplied the alliance with stone and metals. [[Settlements/Yalos|Yalos]]'s shipyards overhauled outdated vessels and allowed the Alliance to assemble an official navy. 
+
+The Opirian Navy would quickly become a force known throughout the continent, enabling the Opirian Alliance to grow as a major power. 
 
 ### Post War Alliance
-- Birth of technology
-- Increased continental influence
+The end of the [[Events/Yhorian-Opirian War|Yhorian-Opirian War]] confirmed the Opirian Alliance was now the dominate nation of [[Continents/Ezavriel|Ezavriel]]. Many previously [[Nations/Yhorian Empire|Yhorian Empire]] towns joined the Opirian Alliance, sending their representatives to [[Settlements/Opira|Opira]]. Almost all trade conducted within the continent now dealt with the Opirian Alliance in some way. 
+
+The war also marked a new era of [[Continents/Ezavriel|Ezavriel]]. It was now the age of technology. Machines, constructs, and other mechanical inventions popped up all throughout Opirian settlements after the representative shared primitive designs used during the war. 
 
 ## Music/Inspiration 
-- https://open.spotify.com/playlist/1j4oFc6aCFnnXDtEJwMQIb?si=da4d0bd0310041bb
+- [DND Capital City, Bustling Crowds](https://open.spotify.com/playlist/1j4oFc6aCFnnXDtEJwMQIb)
 
 #Organization 
