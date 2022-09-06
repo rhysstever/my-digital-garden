@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/organizations/black-rose/","dgHomeLink":true,"dgPassFrontmatter":false}
+dg-publish: true
 ---
 
-
 # Black Rose
-The Black Rose is an assassin's guild that works out of the [[Nations/Yhorian Empire|Yhorian Empire]]. It operates similar to an array of underground organizations: thieving, probing for information, and (occasionally) taking out a target. Its headquarters is the Black Rose Inn in the Highgarden district within [[Settlements/Yhora (City)|Yhora (City)]]. 
+The Black Rose is an assassin's guild that works out of the [[Nations/Yhoran Empire|Yhoran Empire]]. It operates similar to an array of underground organizations: thieving, probing for information, and (occasionally) taking out a target. Its headquarters is the Black Rose Inn in the Highgarden district within [[Settlements/Yhora (City)|Yhora (City)]]. 
 
 ## Assassin's Code
 All agents of the Black Rose take an oath upon gaining membership to the organization. They are required to follow the code strictly. If the code is broken, they are tried in front of the rest of the organization. Punishment can be as severe as execution. 
@@ -20,11 +19,11 @@ Agents of the Black Rose will receive missions to carry out. They are divided in
 - Neutralize: kill the assigned target(s) or takedown an organization
 
 ## Goals
-- Control the political atmosphere of the [[Nations/Yhorian Empire|Yhorian Empire]] and the greater [[Continents/Ezavriel|Ezavriel]] region
+- Control the political atmosphere of the [[Nations/Yhoran Empire|Yhoran Empire]] and the greater [[Continents/Ezavriel|Ezavriel]] region
 - Remove those in power that use their power for evil  
 
 ## Relationships
-The Black Rose has several fingers in the [[Nations/Yhorian Empire|Yhorian Empire]]. Many members of the Yhora family and other prominent families have heard the name, but most know it as the lavish inn located in the Highgarden district. Only a handful have had dealings with them, usually in the form of providing information that they've acquired in their high seat in society. [[People/Thestros Yhora III|Thestros Yhora III]] is a frequent informant for the guild.
+The Black Rose has several fingers in the [[Nations/Yhoran Empire|Yhoran Empire]]. Many members of the Yhora family and other prominent families have heard the name, but most know it as the lavish inn located in the Highgarden district. Only a handful have had dealings with them, usually in the form of providing information that they've acquired in their high seat in society. [[People/Thestros Yhora III|Thestros Yhora III]] is a frequent informant for the guild.
 
 ## Key Figures
 ### Ogush
